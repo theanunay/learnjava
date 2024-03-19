@@ -372,11 +372,7 @@ public class Practice{
          */
         // Q18.
         /*
-        System.out.println("Enter a Letter : ");
-        char ch = sc.next().charAt(0);
-
-        if (ch > 'a' && ch < 'z'){
-            System.out.println("Input by user : " + ch);
+        This code is missing or is under review.
 
         }
 
